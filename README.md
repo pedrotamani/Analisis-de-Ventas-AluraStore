@@ -17,9 +17,9 @@ Este proyecto realiza un análisis completo de las ventas de Alura Store, utiliz
 
 ```
 📦 alura-store/
-├── Analisis_de_venta.ipynb       
-├── README.md                                              
-└── data/                         
+├── README.md                   # Documentación del proyecto
+├── Analisis_de_Venta.ipynb     # Notebook principal con el análisis
+└── Data/                       # Carpeta con los datos utilizados                        
 ````
 
 
